@@ -2,7 +2,7 @@ import time
 import unittest
 import sys
 
-for path in ['./test/']:
+for path in ['./test/', './main/']:
     sys.path.append(path)
 
 def main():
